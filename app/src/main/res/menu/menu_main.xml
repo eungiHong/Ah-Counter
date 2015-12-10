@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <!-- Settings, should always be in the overflow -->
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/internet_of_things"
+        android:title="@string/action_favorite"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/english"
+        android:title="English" />
+    <item
+        android:id="@+id/korean"
+        android:title="한국어" />
+
+</menu>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ah Counter</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="introduction">아 카운터 앱은 자연언어처리의 음성인식(speech-to-text) 기술을 이용하여 자동 아 카운팅을 수행합니다</string>
+    <string name="kor_lang">한국어</string>
+    <string name="eng_lang">English</string>
+    <string name="homepage_link">코딩카페 홈페이지 가기</string>
+    <string name="version_info">버전 정보</string>
+    <string name="kor_word_setting">췌언목록 설정</string>
+    <string name="eng_word_setting">Set Ah Words</string>
+    <string name="kor_start">음성인식 시작하기</string>
+    <string name="eng_start">Start Recognition</string>
+    <string name="kor_terminate">음성인식 종료</string>
+    <string name="eng_terminate">Stop Recognizing</string>
+    <string name="kor_guide">사용설명</string>
+    <string name="eng_guide">User Guide</string>
+    <string name="kor_display">텍스트 보기</string>
+    <string name="eng_display">Show Text</string>
+    <string name="show_result">아 카운팅 결과 보기(Show Result)</string>
+    <string name="initialize">메모장 초기화(Initialize the note)</string>
+    <string name="kor_restart">음성인식 다시 시작하기</string>
+    <string name="eng_restart">Restart Speech Recognition</string>
+</resources>
